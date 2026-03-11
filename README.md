@@ -32,9 +32,9 @@ Mis conocimientos actuales se enfocan principalmente en el Desarrollo Web Fronte
 
 ## 📚 Algunos de mis proyectos
 
-* The Assistant
-* PlayGround
+* The Assistant (WIP)
+* PlayGround (WIP)
 * Mighty Ducks Hockey League Mobile App
-* eCommerce
+* eCommerce (WIP)
 * Data Insight Group
 * Mighty Ducks Hockey League: Mi primer página web
