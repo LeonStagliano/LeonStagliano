@@ -22,13 +22,13 @@ Mis conocimientos actuales se enfocan principalmente en el Desarrollo Web Fronte
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🫱🏼‍🫲🏽 Hábilidades blandas
-Trabajo en Equipo
-Comunicación Efectiva
-Liderazgo
-Compañerismo
-Resolución de Problemas
-Creatividad
-Proactividad
+* Trabajo en Equipo
+* Comunicación Efectiva
+* Liderazgo
+* Compañerismo
+* Resolución de Problemas
+* Creatividad
+* Proactividad
 
 📚 Estos son algunos de mis proyectos
 
