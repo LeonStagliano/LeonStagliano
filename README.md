@@ -30,7 +30,7 @@ Mis conocimientos actuales se enfocan principalmente en el Desarrollo Web Fronte
 * Creatividad
 * Proactividad
 
-📚 Estos son algunos de mis proyectos
+## 📚 Algunos de mis proyectos
 
 * The Assistant
 * PlayGround
