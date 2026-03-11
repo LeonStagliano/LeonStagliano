@@ -32,9 +32,9 @@ Proactividad
 
 📚 Estos son algunos de mis proyectos
 
-The Assistant
-PlayGround
-Mighty Ducks Hockey League Mobile App
-eCommerce
-Data Insight Group
-Mighty Ducks Hockey League: Mi primer página web
+* The Assistant
+* PlayGround
+* Mighty Ducks Hockey League Mobile App
+* eCommerce
+* Data Insight Group
+* Mighty Ducks Hockey League: Mi primer página web
