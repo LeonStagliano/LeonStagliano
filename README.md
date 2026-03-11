@@ -34,13 +34,13 @@ Mis conocimientos actuales se enfocan principalmente en el Desarrollo Web Fronte
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🫱🏼‍🫲🏽 Soft Skills - Hábilidades blandas
+* Proactivity - Proactividad
+* Creativity - Creatividad
+* Problem Solving - Resolución de Problemas
 * Teamwork - Trabajo en Equipo
+* Fellowship - Compañerismo
 * Effective Communication - Comunicación Efectiva
 * Leadership - Liderazgo
-* Fellowship - Compañerismo
-* Problem Solving - Resolución de Problemas
-* Creativity - Creatividad
-* Proactivity - Proactividad
 
 ## 📚 Some of my projects -  Algunos de mis proyectos
 
