@@ -50,6 +50,6 @@ Mis conocimientos actuales se enfocan principalmente en el Desarrollo Web Fronte
 https://github.com/user-attachments/assets/8f9d2f7c-d5b7-45c0-a516-a1dd9279b3d2
 ### eCommerce (WIP)
 ### Data Insight Group
-### <a href="https://leonstagliano.github.io/MightyDucksHockeyLeague/index.html" target="_blank">Mighty Ducks Hockey League: Mi primer página web</a>
+### <a href="https://leonstagliano.github.io/MightyDucksHockeyLeague/index.html" target="_blank">Mighty Ducks Hockey League: My first website web</a>
 
 
