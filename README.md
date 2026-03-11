@@ -4,7 +4,7 @@ Hola! Bienvenido a mi perfil 😊
 
 Soy León, soy un aventurero por naturaleza aventurándose en el sector Tecnológico desde hace algunos años.
 
-En mi perfil seguramente no encuentres el mejor código del mundo, porque todavía me falta aprendizaje y recorrido, pero lo que si encontrarás sin dudas, es a una persona curiosa, creativa y apasionada por lo que hace.
+En mi perfil seguramente no encuentres el mejor código del mundo, porque todavía me falta aprendizaje y recorrido 🚶🏼‍➡️, pero lo que si encontrarás sin dudas, es a una persona curiosa 🔎, creativa 🎨 y apasionada 💜 por lo que hace.
 
 Mis conocimientos actuales se enfocan principalmente en el Desarrollo Web Frontend, usando HTML, CSS y JavaScript. Tengo los conocimientos básicos trabajando con frameworks como Bootstrap para el estilo, y Vue.Js, aunque aún me falta seguir trabajando con éste último. Mi idea es seguir ampliando poco a poco mis habilidades Técnicas, para lograr ser un desarrollador Fullstack, más completo y capaz de dar soluciones íntegras en cualquiera de los proyectos en los que me toque trabajar. Actualmente me encuentro estudiando Python, para poder ir cubriendo esas habilidades propias del Backend.
 
