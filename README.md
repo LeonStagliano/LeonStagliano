@@ -8,7 +8,7 @@ En mi perfil seguramente no encuentres el mejor código del mundo, porque todav�
 
 Mis conocimientos actuales se enfocan principalmente en el Desarrollo Web Frontend, usando HTML, CSS y JavaScript. Tengo los conocimientos básicos trabajando con frameworks como Bootstrap para el estilo, y Vue.Js, aunque aún me falta seguir trabajando con éste último. Mi idea es seguir ampliando poco a poco mis habilidades Técnicas, para lograr ser un desarrollador Fullstack, más completo y capaz de dar soluciones íntegras en cualquiera de los proyectos en los que me toque trabajar. Actualmente me encuentro estudiando Python, para poder ir cubriendo esas habilidades propias del Backend.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/leon-stagliano/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-stagliano/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stagliano.leonardo@gmail.com)
 
 ## 💼 Habilidades Técnicas
