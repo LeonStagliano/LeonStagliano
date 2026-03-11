@@ -46,7 +46,7 @@ Mis conocimientos actuales se enfocan principalmente en el Desarrollo Web Fronte
 
 * The Assistant (WIP)
 * PlayGround (WIP)
-* Mighty Ducks Hockey League Mobile App
+* <a href="https://mdhl-mobile.web.app" target="_blank">Mighty Ducks Hockey League Mobile App</a>
 * eCommerce (WIP)
 * Data Insight Group
 * Mighty Ducks Hockey League: Mi primer página web
