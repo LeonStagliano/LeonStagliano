@@ -45,7 +45,7 @@ Mis conocimientos actuales se enfocan principalmente en el Desarrollo Web Fronte
 ## 📚 Some of my projects -  Algunos de mis proyectos
 
 ### The Assistant (WIP)
-### PlayGround (WIP)
+### <a href="https://corgi-kids.web.app" target="_blank">Corgi Kids Playground (WIP)</a>
 ### <a href="https://mdhl-mobile.web.app" target="_blank">Mighty Ducks Hockey League Mobile App</a>
 https://github.com/user-attachments/assets/8f9d2f7c-d5b7-45c0-a516-a1dd9279b3d2
 ### eCommerce (WIP)
